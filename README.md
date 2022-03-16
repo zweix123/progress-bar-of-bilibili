@@ -1,8 +1,15 @@
+修改中
+
 众所周知，哔哩哔哩是一个学习的网站
 # B站分P合集视频进度栏
-结果如图：![](https://github.com/zweix123/Img/blob/main/progress%20bar/result.jpg)
+结果如图：（我还不会在github的md里添加照片/手动捂脸）
+想使用可把`v5_tampermonkey`里的代码放到油猴里，后续我再整理库
 
+在B站看公开课的时候，不知道自己学了多少，虽然在课程图标的右下角有合集总时间，在分P栏也写明这是第几集，但是在时间维度上不知道当前集较于总体占比多少，或者已经看了多上时间，于是这个脚本由此诞生。
+实际上在学开始的时候没想要以js脚本的方式完成需求，后续会在库中补充上这部分心路历程。
 
-+ 
-![](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
-
+> 代码对这两位前辈的代码有很多借鉴
+  https://www.52pojie.cn/thread-1517520-1-1.html
+  https://greasyfork.org/zh-CN/scripts/431734-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B7%A5%E5%85%B7-%E5%BF%AB%E6%8D%B7%E9%94%AE-%E8%A7%86%E9%A2%91%E6%97%B6%E9%95%BF/code
+  同时在开发过程中受到学校学长很多帮助
+  在此一同表示感谢
